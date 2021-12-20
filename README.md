@@ -1,4 +1,4 @@
-# SemanticsFinalProject
+# Semantics Final Project
 
 Steps:
 
